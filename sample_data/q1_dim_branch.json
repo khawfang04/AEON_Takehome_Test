@@ -1,0 +1,42 @@
+[
+    {
+        "branch_code": "0001",
+        "branch_name": "SAMYAN IDEO",
+        "sub_district": "มหาพฤฒาราม",
+        "district": "บางรัก",
+        "province": "กรุงเทพมหานคร",
+        "update_date": "2022-04-28 00:00:00"
+    },
+    {
+        "branch_code": "0002",
+        "branch_name": "RANGSIT K2",
+        "sub_district": "ประชาธิปัตย์",
+        "district": "ธัญบุรี",
+        "province": "ปทุมธานี",
+        "update_date": "2022-04-28 00:00:00"
+    },
+    {
+        "branch_code": "0003",
+        "branch_name": "SUKHUMVIT 71",
+        "sub_district": "พระโขนงเหนือ",
+        "district": "วัฒนา",
+        "province": "กรุงเทพมหานคร",
+        "update_date": "2021-06-24 00:00:00"
+    },
+    {
+        "branch_code": "0004",
+        "branch_name": "BEE GEE PLAZA",
+        "sub_district": "วัดชลอ",
+        "district": "บางกรวย",
+        "province": "นนทบุรี",
+        "update_date": "2021-06-24 00:00:00"
+    },
+    {
+        "branch_code": "0005",
+        "branch_name": "RAMA4 JASMIN",
+        "sub_district": "พระโขนง",
+        "district": "คลองเตย",
+        "province": "กรุงเทพมหานคร",
+        "update_date": "2023-01-12 00:00:00"
+    }
+]
